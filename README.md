@@ -12,3 +12,14 @@ This is a simple vulnerability scanning tool that scans a network or website for
 - Scan open ports on a target IP or hostname.
 - Check for outdated software versions on a target website.
 - Identify common misconfigurations in web server headers
+
+## Prerequisites
+  - Python 3.x installed on your machine.
+  - **nmap** installed and available in the system PATH.
+  - Required Python libraries: <b>python-nmap</b> and **requests.**
+    
+## Installation
+### Step 1: Install Python Libraries
+Open your terminal or command prompt and run the following commands to install the required Python libraries:
+##
+pip install python-nmap requests
