@@ -15,11 +15,10 @@ This is a simple vulnerability scanning tool that scans a network or website for
 
 ## Prerequisites
   - Python 3.x installed on your machine.
-  - **nmap** installed and available in the system PATH.
-  - Required Python libraries: <b>python-nmap</b> and **requests.**
+  - `nmap` installed and available in the system PATH.
+  - Required Python libraries: `python-nmap` and `requests`.
     
 ## Installation
 ### Step 1: Install Python Libraries
-Open your terminal or command prompt and run the following commands to install the required Python libraries:
-##
+Open your terminal or command prompt and run the following commands to install the required Python libraries:</br>
 pip install python-nmap requests
