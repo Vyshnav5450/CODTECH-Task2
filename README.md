@@ -21,4 +21,5 @@ This is a simple vulnerability scanning tool that scans a network or website for
 ## Installation
 ### Step 1: Install Python Libraries
 Open your terminal or command prompt and run the following commands to install the required Python libraries:</br>
-pip install python-nmap requests
+
+`pip install python-nmap requests`
