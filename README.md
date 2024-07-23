@@ -31,10 +31,6 @@ You can install these packages using` pip`. Here are the installation commands:<
 `pip install requests` </br>
 `pip install packaging` </br>
 
-## Example
-
-![Screenshot 2024-07-23 202344](https://github.com/user-attachments/assets/adfd0aa5-d149-455e-a5ef-74eb26ce6944)
-
 ## Sample Hosts For Testing
 ScanMe Nmap: scanme.nmap.org </br>
 Sample Websites:</br>
