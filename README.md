@@ -19,7 +19,16 @@ This is a simple vulnerability scanning tool that scans a network or website for
   - Required Python libraries: `python-nmap` and `requests`.
     
 ## Installation
-### Step 1: Install Python Libraries
-Open your terminal or command prompt and run the following commands to install the required Python libraries:</br>
+### To run the script, you'll need to have the following Python packages installed:
 
-`pip install python-nmap requests`
+-`nmap`: This package is a Python wrapper for the Nmap port scanner.</br>
+-`requests`: This package allows you to send HTTP requests in Python.</br>
+-`packaging`: This package is used for comparing software versions.</br>
+
+You can install these packages using` pip`. Here are the installation commands:</br>
+
+`pip install python-nmap` </br>
+`pip install requests` </br>
+`pip install packaging` </br>
+
+# Example
